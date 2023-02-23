@@ -1,0 +1,15 @@
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\bin\Debug\net6.0\Calculadora Simples.exe
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\bin\Debug\net6.0\Calculadora Simples.deps.json
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\bin\Debug\net6.0\Calculadora Simples.runtimeconfig.json
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\bin\Debug\net6.0\Calculadora Simples.dll
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\bin\Debug\net6.0\Calculadora Simples.pdb
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\Calculadora Simples.csproj.AssemblyReference.cache
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\Calculadora Simples.GeneratedMSBuildEditorConfig.editorconfig
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\Calculadora Simples.AssemblyInfoInputs.cache
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\Calculadora Simples.AssemblyInfo.cs
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\Calculadora Simples.csproj.CoreCompileInputs.cache
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\Calculadora Simples.dll
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\refint\Calculadora Simples.dll
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\Calculadora Simples.pdb
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\Calculadora Simples.genruntimeconfig.cache
+G:\MODULO2\asp net\Calculadora Simples\Calculadora Simples\obj\Debug\net6.0\ref\Calculadora Simples.dll

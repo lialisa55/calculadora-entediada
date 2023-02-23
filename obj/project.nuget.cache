@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGIasq09md4ax4DkIBGm4L+67aB+Ebavrt5m3FBRTCFAwN4Xs3pos+vrJBYZhzHDee9ec192oKVETqbfi0oGCg==",
+  "success": true,
+  "projectFilePath": "G:\\MODULO2\\asp net\\Calculadora Simples\\Calculadora Simples\\Calculadora Simples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monalisa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Monalisa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Monalisa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Monalisa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
